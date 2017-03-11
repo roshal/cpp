@@ -1,0 +1,4 @@
+
+exit
+
+cc main.cpp
